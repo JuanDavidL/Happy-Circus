@@ -11,11 +11,15 @@ public class BubbleGun : MonoBehaviour
 
 
     private GameManagerUX gameManagerUX;
+    private optionsLogic LogicaPause;
+    private AudioManager audioManager;
 
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         gameManagerUX = GameObject.Find("GameManager").GetComponent<GameManagerUX>();
+        LogicaPause = GameObject.Find("ActivadorPausa").GetComponent<optionsLogic>();
+        audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
   
     }
 
@@ -52,20 +56,28 @@ public class BubbleGun : MonoBehaviour
     {
         if (Mouse.current.leftButton.wasPressedThisFrame)
         {
-
-
-            if (GameManagerUX.Instance.HasAmmo() )
+            if (!LogicaPause.paused)
             {
-                GameObject bullet = Instantiate(BubblePrefab, spawner.position, transform.rotation);
-                Destroy(bullet, 3f);
+                if (GameManagerUX.Instance.HasAmmo() )
+                {
 
-                // Restar una burbuja en el GameManager
-                GameManagerUX.Instance.UpdateBubbles(-1); // con la Instancia verificamos que solo haya uno en la escena.
+                    
+                    audioManager.PlaySFX(audioManager.shoot);
+                    GameObject bullet = Instantiate(BubblePrefab, spawner.position, transform.rotation);
+                    Destroy(bullet, 3f);
+
+                    // Restar una burbuja en el GameManager
+                    GameManagerUX.Instance.UpdateBubbles(-1); // con la Instancia verificamos que solo haya uno en la escena.
+                }
+                else
+                {
+                    Debug.Log("Sin munición!");
+
+                }                
             }
-            else
-            {
-                Debug.Log("Sin munición!");
-            }
+
+
+            
 
 
             //gameManagerUX.UpdateBubbles(-1);  si quiero usarlo asi tendria que declaralo arriba y en el star buscar el componente

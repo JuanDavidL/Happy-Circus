@@ -48,6 +48,7 @@ public class GameManagerUX : MonoBehaviour
     public void RegisterKill()
     {
         kills++;
+        KillCountText.text= "" + kills;
 
         if (kills == 3)
         {
