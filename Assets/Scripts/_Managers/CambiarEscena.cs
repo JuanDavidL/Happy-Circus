@@ -18,7 +18,7 @@ public class CambiarEscena : MonoBehaviour
 
     public void IrAlJuego()
     {
-        SceneManager.LoadScene("FirstSceneClean");
+        SceneManager.LoadScene("NataliaScene");
     }
 
 

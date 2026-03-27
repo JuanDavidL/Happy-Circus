@@ -1,10 +1,14 @@
 using UnityEngine;
 using System.Collections;
+using Unity.VisualScripting;
 
 public class Gift : MonoBehaviour
 {
     [SerializeField] private float lifeTime = 5f;
     private SpriteRenderer sprite;
+
+    public int Bubblegift;
+
 
     void OnEnable()
     {
@@ -25,6 +29,18 @@ public class Gift : MonoBehaviour
             blinkTimer += 0.1f;
         }
 
-        ObjectPoolling.Instance.ReturnPoolObject("Regalo", gameObject);
+        ObjectPoolling.Instance.ReturnPoolObject("Gift", gameObject);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Projectile"))
+        {
+            GameManagerUX.Instance.UpdateBubbles(Bubblegift);
+            //Destroy(gameObject);
+            //Destroy(collision.gameObject);
+            Debug.Log("Si colisiona con reaglo");
+            ObjectPoolling.Instance.ReturnPoolObject("Gift", gameObject);
+        }
     }
 }

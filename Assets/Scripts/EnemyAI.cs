@@ -17,6 +17,17 @@ public class EnemyAI : MonoBehaviour
     private Vector3 startPos;
     private float timer;
 
+    public Sprite normalClown;
+    public Sprite DeadClown;
+
+    private SpriteRenderer spriteRenderer;
+
+    void Start()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer.sprite = normalClown;
+       
+    }
     void OnEnable()
     {
         currentState = EnemyState.Entering;
@@ -63,7 +74,7 @@ public class EnemyAI : MonoBehaviour
     void AttackPlatform()
     {
         if (playerTransform == null) return;
-
+ 
         // Persecución directa
         Vector2 direction = (playerTransform.position - transform.position).normalized;
         transform.Translate(direction * (speed * 1.5f) * Time.deltaTime);
@@ -76,5 +87,28 @@ public class EnemyAI : MonoBehaviour
 
             ObjectPoolling.Instance.ReturnPoolObject(poolTag, gameObject);
         }
+    }
+
+    public void SetDiabolicForm(bool active)
+    {
+        spriteRenderer.sprite = active ? DeadClown : normalClown;
+    }
+
+    // cuando muere, avisa al GameManager
+    // Detecta colisión con proyectiles
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Verificamos si el objeto que chocó es una burbuja
+        if (collision.CompareTag("Projectile"))
+        {
+            Die();
+        }
+    }
+
+    public void Die()
+    {
+        GameManagerUX.Instance.RegisterKill();
+        //Destroy(gameObject);
+         ObjectPoolling.Instance.ReturnPoolObject("Enemy", gameObject);
     }
 }

@@ -5,7 +5,7 @@ public class ObjectPoolling : MonoBehaviour
 {
     public static ObjectPoolling Instance;
 
-    [Header("Configuración del Poolling")]
+    [Header("Configuracion del Poolling")]
     [SerializeField] private List<PoolItem> itemsPool;
     private Dictionary<string, Queue<GameObject>> dictionaryPool;
 
