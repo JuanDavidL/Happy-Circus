@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: e7f3433ce03c6264a84bee876a6fdbb8
+guid: 9d2f779009df34343bbc2fc74985db5e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8376212572810505588
-    second: Captura de pantalla 2026-03-26 121559-Photoroom_0
+      213: 4955205639624695782
+    second: MontanaRusa-04_0
+  - first:
+      213: 8173008472688180460
+    second: MontanaRusa-04_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,23 +142,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Captura de pantalla 2026-03-26 121559-Photoroom_0
+      name: MontanaRusa-04_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 54
-        width: 204
-        height: 87
+        y: 7
+        width: 50
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47de785b4f84e3470800000000000000
-      internalID: 8376212572810505588
+      spriteID: 6ef97d2864d64c440800000000000000
+      internalID: 4955205639624695782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MontanaRusa-04_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec36d847eb5c6170800000000000000
+      internalID: 8173008472688180460
       vertices: []
       indices: 
       edges: []
@@ -164,7 +189,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d56b3de6818d952499d83c1c38c37705
     internalID: 0
     vertices: []
     indices: 
@@ -174,7 +199,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Captura de pantalla 2026-03-26 121559-Photoroom_0: 8376212572810505588
+      MontanaRusa-04_0: 4955205639624695782
+      MontanaRusa-04_1: 8173008472688180460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
