@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sandbox_Test.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Level/Level_01.unity
+    guid: 412bc6ddd42625840ab45787e1f6c9aa
+  - enabled: 1
+    path: Assets/Scenes/_Menus/MainMenu.unity
+    guid: e069a92d4abba174fb5f483e11bd7e55
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
