@@ -107,10 +107,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
   currentState: 0
-  speed: 3
+  speed: 4
   erraticSpeed: 2
   erraticRange: 1.5
-  waitTime: 4
+  waitTime: 1
   poolTag: Enemy
   normalClown: {fileID: -2418138486070395055, guid: a16f7b775bb28e24a93e8e3aad1b8687, type: 3}
   DeadClown: {fileID: -2237715571384829984, guid: 60d0715e83a564a4a90fe39bd3a74974, type: 3}
