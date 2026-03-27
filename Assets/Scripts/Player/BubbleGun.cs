@@ -54,7 +54,7 @@ public class BubbleGun : MonoBehaviour
         {
 
 
-            if (GameManagerUX.Instance.HasAmmo())
+            if (GameManagerUX.Instance.HasAmmo() )
             {
                 GameObject bullet = Instantiate(BubblePrefab, spawner.position, transform.rotation);
                 Destroy(bullet, 3f);
