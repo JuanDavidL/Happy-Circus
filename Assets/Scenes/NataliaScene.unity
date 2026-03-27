@@ -254,6 +254,7 @@ MonoBehaviour:
   mainCamera: {fileID: 594197784}
   glitchVolume: {fileID: 1470624954}
   globalLight: {fileID: 836976469}
+  player: {fileID: 0}
 --- !u!4 &139579046
 Transform:
   m_ObjectHideFlags: 0
@@ -2318,7 +2319,6 @@ MonoBehaviour:
   ammoText: {fileID: 1647175642}
   resistanceText: {fileID: 0}
   KillCountText: {fileID: 1998169165}
-  killsToActivateGlitch: 3
   glitchController: {fileID: 139579045}
   isGameActive: 0
   paused: 0

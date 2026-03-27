@@ -15,6 +15,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip collectGift;
     public AudioClip buttonHover;
     public AudioClip buttonClick;
+    public AudioClip Risita;
  
 
     void Start()
