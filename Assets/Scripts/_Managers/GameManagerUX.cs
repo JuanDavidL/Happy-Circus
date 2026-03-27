@@ -2,11 +2,15 @@ using UnityEngine;
 using System.Collections;
 
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameManagerUX : MonoBehaviour
 {
 
     public static GameManagerUX Instance; // con esta instancia podemos llamar a este script sin tner que declararlo, el ejmp esta ne el BUuBBLeGun
+
+    [Header("UI References")]
+    [SerializeField] private GameObject gameOverPanel;
 
     [Header("Ammo Settings")]
     public int maxBubbles = 10;       // cantidad máxima de burbujas
@@ -23,7 +27,7 @@ public class GameManagerUX : MonoBehaviour
     [Header("Glitch Settings")]
     public int killsToActivateGlitch = 3; // a partir de 3 muertes
     private int killCount;
-    
+
 
     public GlitchController glitchController;
 
@@ -37,17 +41,19 @@ public class GameManagerUX : MonoBehaviour
     {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
+
+        Time.timeScale = 1f;
     }
 
     void Start()
     {
         totalBubbles = maxBubbles;
-        
+        if (gameOverPanel != null) gameOverPanel.SetActive(false);
     }
 
     public void RegisterKill()
     {
-        killCount ++;
+        killCount++;
         KillCountText.text = "" + killCount;
         if (killCount >= killsToActivateGlitch)
         {
@@ -63,7 +69,7 @@ public class GameManagerUX : MonoBehaviour
         if (totalBubbles > 0)
         {
             totalBubbles--;
-   
+
             return true; // sí puede disparar
         }
         return false; // no hay munición
@@ -77,9 +83,9 @@ public class GameManagerUX : MonoBehaviour
     public void UpdateBubbles(int amount)
     {
         totalBubbles = Mathf.Clamp(totalBubbles + amount, 0, maxBubbles); // se usa el math para que no quede en numero negativos
-        // y si tenemos un limite, para que no pase de ahi, es decir si el limite es 10, tenemos 8, y recojemos 5, la cantidad total queda en 10
-        
-        ammoText.text= "" + totalBubbles;
+                                                                          // y si tenemos un limite, para que no pase de ahi, es decir si el limite es 10, tenemos 8, y recojemos 5, la cantidad total queda en 10
+
+        ammoText.text = "" + totalBubbles;
     }
 
     private IEnumerator GlitchLoop()
@@ -95,6 +101,31 @@ public class GameManagerUX : MonoBehaviour
         }
     }
 
+    public void GameOVer()
+    {
+        isGameActive = false;
+
+        // 1. Activar el Canvas de derrota
+        if (gameOverPanel != null) gameOverPanel.SetActive(true);
+
+        // 2. Pausar el tiempo del juego
+        Time.timeScale = 0f;
+
+        // 3. (Opcional) Bloquear el cursor si usas mouse para apuntar
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+    }
+
+    public void RestartGame()
+    {
+        // Recarga la escena actual
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void GoToMainMenu()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
 
 }
 

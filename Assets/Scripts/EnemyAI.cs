@@ -26,7 +26,7 @@ public class EnemyAI : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         spriteRenderer.sprite = normalClown;
-       
+
     }
     void OnEnable()
     {
@@ -74,7 +74,7 @@ public class EnemyAI : MonoBehaviour
     void AttackPlatform()
     {
         if (playerTransform == null) return;
- 
+
         // Persecución directa
         Vector2 direction = (playerTransform.position - transform.position).normalized;
         transform.Translate(direction * (speed * 1.5f) * Time.deltaTime);
@@ -83,7 +83,15 @@ public class EnemyAI : MonoBehaviour
         if (Vector2.Distance(transform.position, playerTransform.position) < 0.8f)
         {
             // IMPACTO:
-            // playerTransform.GetComponent<PlatformHealth>()?.TakeDamage(10);
+            // INTENTO DE IMPACTO: 
+            // Buscamos el script Health en el objetivo
+            Health targetHealth = playerTransform.GetComponent<Health>();
+
+            if (targetHealth != null)
+            {
+                targetHealth.TakeDamage(10f); // Restamos la vida
+                Debug.Log("DAÑO!");
+            }
 
             ObjectPoolling.Instance.ReturnPoolObject(poolTag, gameObject);
         }
@@ -109,6 +117,6 @@ public class EnemyAI : MonoBehaviour
     {
         GameManagerUX.Instance.RegisterKill();
         //Destroy(gameObject);
-         ObjectPoolling.Instance.ReturnPoolObject("Enemy", gameObject);
+        ObjectPoolling.Instance.ReturnPoolObject("Enemy", gameObject);
     }
 }
