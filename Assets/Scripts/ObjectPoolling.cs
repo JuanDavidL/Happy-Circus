@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -27,7 +26,8 @@ public class ObjectPoolling : MonoBehaviour
 
             for (int i = 0; i < item.amount; i++)
             {
-                GameObject obj = CreareNewObj(item.prefab, false);
+                int iRandom = Random.Range(0, item.listPrefab.Count);
+                GameObject obj = CreareNewObj(item.listPrefab[iRandom], false);
                 objPool.Enqueue(obj);
             }
 
@@ -55,7 +55,8 @@ public class ObjectPoolling : MonoBehaviour
         {
             PoolItem itemData = itemsPool.Find(item => item.tag == tag);
             Debug.Log("NUEVO - ACTIVADO");
-            return CreareNewObj(itemData.prefab, true);
+            int iRandom = Random.Range(0, itemData.listPrefab.Count);
+            return CreareNewObj(itemData.listPrefab[iRandom], true);
         }
 
         GameObject obj = dictionaryPool[tag].Dequeue();
@@ -79,6 +80,6 @@ public class ObjectPoolling : MonoBehaviour
 public class PoolItem
 {
     public string tag;
-    public GameObject prefab;
+    public List<GameObject> listPrefab;
     public int amount;
 }

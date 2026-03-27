@@ -150,13 +150,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ObjectPoolling
   itemsPool:
   - tag: Enemy
-    prefab: {fileID: 5805208822193827743, guid: 2d47f6cd35fe7c242af377b2cc51eb9c, type: 3}
+    listPrefab:
+    - {fileID: 5805208822193827743, guid: 2d47f6cd35fe7c242af377b2cc51eb9c, type: 3}
+    - {fileID: 4168705420256573433, guid: 6e8539f8b3517fe488c0d7ed695fce51, type: 3}
+    - {fileID: 1563536361695983511, guid: d5b4aa96cd4af524da42bf6cab3541bf, type: 3}
     amount: 10
   - tag: Gift
-    prefab: {fileID: 9159773804959006521, guid: f0bee13d49890cd4e8c437834355bad6, type: 3}
+    listPrefab:
+    - {fileID: 9159773804959006521, guid: f0bee13d49890cd4e8c437834355bad6, type: 3}
+    - {fileID: 1145230736570214428, guid: ef409974151004444bb5edbbafa0e948, type: 3}
+    - {fileID: 2950551700662698004, guid: 8d744d1134969ac439fcd64adc23e8f0, type: 3}
     amount: 5
   - tag: Bullet
-    prefab: {fileID: 4389004285302607899, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+    listPrefab:
+    - {fileID: 4389004285302607899, guid: 03386206c891ad74ca999cffed32e027, type: 3}
     amount: 20
 --- !u!4 &251981265
 Transform:
@@ -4289,6 +4296,9 @@ MonoBehaviour:
   rollerCoasterResistance: 100
   ammoText: {fileID: 372544199}
   resistanceText: {fileID: 0}
+  KillCountText: {fileID: 0}
+  killsToActivateGlitch: 3
+  glitchController: {fileID: 0}
   isGameActive: 0
   paused: 0
 --- !u!4 &1678375419
