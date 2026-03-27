@@ -2349,6 +2349,7 @@ GameObject:
   - component: {fileID: 966603220}
   - component: {fileID: 966603219}
   - component: {fileID: 966603218}
+  - component: {fileID: 966603221}
   m_Layer: 5
   m_Name: ButtonOptionw
   m_TagString: Untagged
@@ -2458,6 +2459,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966603216}
   m_CullTransparentMesh: 1
+--- !u!114 &966603221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 966603216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc193f630ad536e4f92cf4f673d95304, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIButtonSound
 --- !u!1 &969366448
 GameObject:
   m_ObjectHideFlags: 0
@@ -3620,6 +3633,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1474005149
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4389004285302607899, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_Name
+      value: Bubble
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.40968347
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -12.354164
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7854338792769255607, guid: 03386206c891ad74ca999cffed32e027, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 03386206c891ad74ca999cffed32e027, type: 3}
 --- !u!1 &1499819245
 GameObject:
   m_ObjectHideFlags: 0
@@ -4274,6 +4344,7 @@ GameObject:
   - component: {fileID: 1573710443}
   - component: {fileID: 1573710442}
   - component: {fileID: 1573710441}
+  - component: {fileID: 1573710444}
   m_Layer: 5
   m_Name: ButtonBack
   m_TagString: Untagged
@@ -4383,6 +4454,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1573710439}
   m_CullTransparentMesh: 1
+--- !u!114 &1573710444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573710439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc193f630ad536e4f92cf4f673d95304, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIButtonSound
 --- !u!1001 &1610903542
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4488,6 +4571,7 @@ GameObject:
   - component: {fileID: 1638048343}
   - component: {fileID: 1638048342}
   - component: {fileID: 1638048341}
+  - component: {fileID: 1638048344}
   m_Layer: 5
   m_Name: ButtonPlay
   m_TagString: Untagged
@@ -4597,6 +4681,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1638048339}
   m_CullTransparentMesh: 1
+--- !u!114 &1638048344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1638048339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc193f630ad536e4f92cf4f673d95304, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIButtonSound
 --- !u!1 &1647175640
 GameObject:
   m_ObjectHideFlags: 0
@@ -5285,7 +5381,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: -5712959122012955994, guid: 7086f2f98f89a8646a65e27315be8648, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5737,6 +5833,7 @@ GameObject:
   - component: {fileID: 1966221828}
   - component: {fileID: 1966221827}
   - component: {fileID: 1966221826}
+  - component: {fileID: 1966221829}
   m_Layer: 5
   m_Name: ButtonHome
   m_TagString: Untagged
@@ -5846,6 +5943,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1966221824}
   m_CullTransparentMesh: 1
+--- !u!114 &1966221829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1966221824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc193f630ad536e4f92cf4f673d95304, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIButtonSound
 --- !u!1 &1993105628
 GameObject:
   m_ObjectHideFlags: 0
@@ -6216,3 +6325,4 @@ SceneRoots:
   - {fileID: 1068772152}
   - {fileID: 1450665296}
   - {fileID: 139579046}
+  - {fileID: 1474005149}
