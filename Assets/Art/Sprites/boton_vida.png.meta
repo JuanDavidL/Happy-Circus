@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 01f64bb94d9b18641b98d66ea89a030d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2701072272409483936
+    second: boton_vida_0
+  - first:
+      213: 4076676284311204016
+    second: boton_vida_1
+  - first:
+      213: -6588463686961536307
+    second: boton_vida_2
+  - first:
+      213: -7718830581836128491
+    second: boton_vida_3
+  - first:
+      213: -9150432083334840676
+    second: boton_vida_4
+  - first:
+      213: -3507649647145408532
+    second: boton_vida_5
+  - first:
+      213: -9191286825732450914
+    second: boton_vida_6
+  - first:
+      213: -6757435776383596637
+    second: boton_vida_7
+  - first:
+      213: -6437817386252954149
+    second: boton_vida_8
+  - first:
+      213: 1770531907697209262
+    second: boton_vida_9
+  - first:
+      213: 2250123078734987106
+    second: boton_vida_10
+  - first:
+      213: -2423232003127235369
+    second: boton_vida_11
+  - first:
+      213: 3475583894308766290
+    second: boton_vida_12
+  - first:
+      213: -8887009051350655376
+    second: boton_vida_13
+  - first:
+      213: -1689241384648327836
+    second: boton_vida_14
+  - first:
+      213: -991260929861420976
+    second: boton_vida_15
+  - first:
+      213: 5509829570693855426
+    second: boton_vida_16
+  - first:
+      213: 2626452312557895090
+    second: boton_vida_17
+  - first:
+      213: -2244430366672477343
+    second: boton_vida_18
+  - first:
+      213: 8393880829194831734
+    second: boton_vida_19
+  - first:
+      213: 6118053066084077385
+    second: boton_vida_20
+  - first:
+      213: 8511574535362941795
+    second: boton_vida_21
+  - first:
+      213: -2344849325658313205
+    second: boton_vida_22
+  - first:
+      213: -1747163336835054827
+    second: boton_vida_23
+  - first:
+      213: 8050974964595478561
+    second: boton_vida_24
+  - first:
+      213: 7458640840423404206
+    second: boton_vida_25
+  - first:
+      213: -6094037266820053981
+    second: boton_vida_26
+  - first:
+      213: -838539384820117657
+    second: boton_vida_27
+  - first:
+      213: -3556322529254186129
+    second: boton_vida_28
+  - first:
+      213: -235939958297137251
+    second: boton_vida_29
+  - first:
+      213: -3584815479222756488
+    second: boton_vida_30
+  - first:
+      213: -5585680123707174683
+    second: boton_vida_31
+  - first:
+      213: -3212770047306762042
+    second: boton_vida_32
+  - first:
+      213: 650110349284645137
+    second: boton_vida_33
+  - first:
+      213: 5766522525679486850
+    second: boton_vida_34
+  - first:
+      213: -3448256191956406660
+    second: boton_vida_35
+  - first:
+      213: 6669946056234360536
+    second: boton_vida_36
+  - first:
+      213: 3050365456282727800
+    second: boton_vida_37
+  - first:
+      213: 2831541177698398018
+    second: boton_vida_38
+  - first:
+      213: -1614284181830246931
+    second: boton_vida_39
+  - first:
+      213: 670891679232150047
+    second: boton_vida_40
+  - first:
+      213: -7360836947974899884
+    second: boton_vida_41
+  - first:
+      213: -6697241816417101118
+    second: boton_vida_42
+  - first:
+      213: -4296931037097124286
+    second: boton_vida_43
+  - first:
+      213: 5187498635408657944
+    second: boton_vida_44
+  - first:
+      213: -2307140890271847511
+    second: boton_vida_45
+  - first:
+      213: -6537696654291186324
+    second: boton_vida_46
+  - first:
+      213: 575614366550742667
+    second: boton_vida_47
+  - first:
+      213: -4697372281779628902
+    second: boton_vida_48
+  - first:
+      213: 2738223685923021586
+    second: boton_vida_49
+  - first:
+      213: 8495408732587102942
+    second: boton_vida_50
+  - first:
+      213: -5892793110288544029
+    second: boton_vida_51
+  - first:
+      213: -3264940315110548660
+    second: boton_vida_52
+  - first:
+      213: 6114528898994410805
+    second: boton_vida_53
+  - first:
+      213: -5290373318641334057
+    second: boton_vida_54
+  - first:
+      213: 8468775954693123812
+    second: boton_vida_55
+  - first:
+      213: 5065071500211628352
+    second: boton_vida_56
+  - first:
+      213: 8483073494464652002
+    second: boton_vida_57
+  - first:
+      213: 6344498783167943134
+    second: boton_vida_58
+  - first:
+      213: 3861335491084039211
+    second: boton_vida_59
+  - first:
+      213: -6621870891758633845
+    second: boton_vida_60
+  - first:
+      213: -4255249019669785809
+    second: boton_vida_61
+  - first:
+      213: 326584331060552721
+    second: boton_vida_62
+  - first:
+      213: 7814742501398752219
+    second: boton_vida_63
+  - first:
+      213: 6501350791972815860
+    second: boton_vida_64
+  - first:
+      213: -643293957579603601
+    second: boton_vida_65
+  - first:
+      213: 7280938515597264872
+    second: boton_vida_66
+  - first:
+      213: -1316936917077072483
+    second: boton_vida_67
+  - first:
+      213: 6518605853948511377
+    second: boton_vida_68
+  - first:
+      213: 2606406124768362671
+    second: boton_vida_69
+  - first:
+      213: -6938535937686037943
+    second: boton_vida_70
+  - first:
+      213: -6901181497978666334
+    second: boton_vida_71
+  - first:
+      213: 1382921411370321440
+    second: boton_vida_72
+  - first:
+      213: 4106469174902381146
+    second: boton_vida_73
+  - first:
+      213: -6238087095182121159
+    second: boton_vida_74
+  - first:
+      213: 4167149377084883810
+    second: boton_vida_75
+  - first:
+      213: -1644382173622506981
+    second: boton_vida_76
+  - first:
+      213: -1308039415243868341
+    second: boton_vida_77
+  - first:
+      213: -190854273723024199
+    second: boton_vida_78
+  - first:
+      213: -8699187118332918506
+    second: boton_vida_79
+  - first:
+      213: -8797567269112743370
+    second: boton_vida_80
+  - first:
+      213: -6601046381597502374
+    second: boton_vida_81
+  - first:
+      213: -2504031739740103644
+    second: boton_vida_82
+  - first:
+      213: 494197979341581475
+    second: boton_vida_83
+  - first:
+      213: -4804935054283444682
+    second: boton_vida_84
+  - first:
+      213: 2838736593849780133
+    second: boton_vida_85
+  - first:
+      213: 1865561794581460549
+    second: boton_vida_86
+  - first:
+      213: 5172381804776723079
+    second: boton_vida_87
+  - first:
+      213: -6104734527177505422
+    second: boton_vida_88
+  - first:
+      213: 1346965091937635587
+    second: boton_vida_89
+  - first:
+      213: 6800794957229209057
+    second: boton_vida_90
+  - first:
+      213: 6699204265159205379
+    second: boton_vida_91
+  - first:
+      213: -2558837453605475637
+    second: boton_vida_92
+  - first:
+      213: 5020988161068340532
+    second: boton_vida_93
+  - first:
+      213: 4405188766675159087
+    second: boton_vida_94
+  - first:
+      213: 2253649187263495543
+    second: boton_vida_95
+  - first:
+      213: 8071392037607068956
+    second: boton_vida_96
+  - first:
+      213: -3639790261218611770
+    second: boton_vida_97
+  - first:
+      213: -1720665790632183409
+    second: boton_vida_98
+  - first:
+      213: 3183674658015142478
+    second: boton_vida_99
+  - first:
+      213: -2125219775914422501
+    second: boton_vida_100
+  - first:
+      213: 2573276924960574198
+    second: boton_vida_101
+  - first:
+      213: -964221832241980758
+    second: boton_vida_102
+  - first:
+      213: 8954468661870354015
+    second: boton_vida_103
+  - first:
+      213: -1535033780295116874
+    second: boton_vida_104
+  - first:
+      213: -6036170253245074899
+    second: boton_vida_105
+  - first:
+      213: -2773306782814905522
+    second: boton_vida_106
+  - first:
+      213: -6302096447329914926
+    second: boton_vida_107
+  - first:
+      213: -6249764822321338890
+    second: boton_vida_108
+  - first:
+      213: 7528593648544100891
+    second: boton_vida_109
+  - first:
+      213: -6476223996696874209
+    second: boton_vida_110
+  - first:
+      213: 8895703927549617284
+    second: boton_vida_111
+  - first:
+      213: -9011769668226918382
+    second: boton_vida_112
+  - first:
+      213: -6206982024654783454
+    second: boton_vida_113
+  - first:
+      213: 3500880173713562407
+    second: boton_vida_114
+  - first:
+      213: -4788808805877258889
+    second: boton_vida_115
+  - first:
+      213: 126679320761206728
+    second: boton_vida_116
+  - first:
+      213: -6779320300906229003
+    second: boton_vida_117
+  - first:
+      213: 7877367557879799050
+    second: boton_vida_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boton_vida_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aadf9dbbe22c7520800000000000000
+      internalID: 2701072272409483936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_1
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1887
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0f0ae3b73439830800000000000000
+      internalID: 4076676284311204016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1860
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e8131f231194a0800000000000000
+      internalID: -6588463686961536307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1846
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f5c306b7431e490800000000000000
+      internalID: -7718830581836128491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_4
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1850
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e3d735082230180800000000000000
+      internalID: -9150432083334840676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1823
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7af51fa33525fc0800000000000000
+      internalID: -3507649647145408532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1810
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e955d7b545df17080800000000000000
+      internalID: -9191286825732450914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_7
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1814
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7c32cb6f3c832a0800000000000000
+      internalID: -6757435776383596637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1773
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd51f8b323748a6a0800000000000000
+      internalID: -6437817386252954149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1773
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf69cda361329810800000000000000
+      internalID: 1770531907697209262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_10
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1776
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f38e8b40b0a3f10800000000000000
+      internalID: 2250123078734987106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_11
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1759
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc2e3df453fe5ed0800000000000000
+      internalID: -2423232003127235369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_12
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1759
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252c75f2321cb3030800000000000000
+      internalID: 3475583894308766290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1750
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e109a6a500ba480800000000000000
+      internalID: -8887009051350655376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1737
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46db52029eb9e88e0800000000000000
+      internalID: -1689241384648327836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_15
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1740
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058f2ebaf655e32f0800000000000000
+      internalID: -991260929861420976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1732
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8762e5dc8d67c40800000000000000
+      internalID: 5509829570693855426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_17
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1728
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd34857678037420800000000000000
+      internalID: 2626452312557895090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_18
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1727
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1632367197e2ad0e0800000000000000
+      internalID: -2244430366672477343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 627
+        width: 2945
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6778e17342e0d7470800000000000000
+      internalID: 8393880829194831734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1718
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f4ee849d0b7e450800000000000000
+      internalID: 6118053066084077385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_21
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1715
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363919391ff2f1670800000000000000
+      internalID: 8511574535362941795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1719
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e625c36fb657fd0800000000000000
+      internalID: -2344849325658313205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_23
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1719
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5134c57b334d0c7e0800000000000000
+      internalID: -1747163336835054827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_24
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120d64c031fcabf60800000000000000
+      internalID: 8050974964595478561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_25
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea278a8a35a628760800000000000000
+      internalID: 7458640840423404206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_26
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c237b461ad6ba0800000000000000
+      internalID: -6094037266820053981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_27
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1719
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f4f9d4fd8ec54f0800000000000000
+      internalID: -838539384820117657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_28
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63e519708765aec0800000000000000
+      internalID: -3556322529254186129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_29
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1719
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fe065abd5c9bcf0800000000000000
+      internalID: -235939958297137251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_30
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1719
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b1b97905d204ec0800000000000000
+      internalID: -3584815479222756488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_31
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0597d858dab72b0800000000000000
+      internalID: -5585680123707174683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_32
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1719
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8f349f9a2f963d0800000000000000
+      internalID: -3212770047306762042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_33
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1719
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199ae11be7a50900800000000000000
+      internalID: 650110349284645137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_34
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2870a6c4fadc60050800000000000000
+      internalID: 5766522525679486850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_35
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ea5e753455520d0800000000000000
+      internalID: -3448256191956406660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_36
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deddd86998609c50800000000000000
+      internalID: 6669946056234360536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_37
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1719
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875bad09833155a20800000000000000
+      internalID: 3050365456282727800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_38
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24faa9fe2b7ab4720800000000000000
+      internalID: 2831541177698398018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_39
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedd977e619e899e0800000000000000
+      internalID: -1614284181830246931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_40
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac56f7d6c7f4900800000000000000
+      internalID: 670891679232150047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_41
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b2629bcd09d990800000000000000
+      internalID: -7360836947974899884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_42
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca119d2d0e9e03a0800000000000000
+      internalID: -6697241816417101118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_43
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1719
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e9975ecfb3e54c0800000000000000
+      internalID: -4296931037097124286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_44
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e4b5c3682bdf740800000000000000
+      internalID: 5187498635408657944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_45
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab619485936bffd0800000000000000
+      internalID: -2307140890271847511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_46
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dc6b7f78f6545a0800000000000000
+      internalID: -6537696654291186324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_47
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b865ed5773efcf700800000000000000
+      internalID: 575614366550742667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_48
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1720
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9452c62cc49fceb0800000000000000
+      internalID: -4697372281779628902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_49
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a0034fef100620800000000000000
+      internalID: 2738223685923021586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_50
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed21b9f4b31c5e570800000000000000
+      internalID: 8495408732587102942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_51
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1720
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eec16633e7983ea0800000000000000
+      internalID: -5892793110288544029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_52
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bdbf0f41a90b2d0800000000000000
+      internalID: -3264940315110548660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_53
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1719
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5351c6133ab2bd450800000000000000
+      internalID: 6114528898994410805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_54
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1720
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8cd2d0f71d496b0800000000000000
+      internalID: -5290373318641334057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_55
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1720
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee6add7cd2278570800000000000000
+      internalID: 8468775954693123812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_56
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a11c81bfba4640800000000000000
+      internalID: 5065071500211628352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_57
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1720
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2e811e56ee9b570800000000000000
+      internalID: 8483073494464652002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_58
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1719
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed19f9857003c0850800000000000000
+      internalID: 6344498783167943134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_59
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1719
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b243ca0cb28369530800000000000000
+      internalID: 3861335491084039211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_60
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1720
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c3a3412836a14a0800000000000000
+      internalID: -6621870891758633845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_61
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23d0c7df8152f4c0800000000000000
+      internalID: -4255249019669785809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_62
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1720
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114a21208b2488400800000000000000
+      internalID: 326584331060552721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_63
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1719
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb250796ea837c60800000000000000
+      internalID: 7814742501398752219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_64
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1720
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f38eb38910793a50800000000000000
+      internalID: 6501350791972815860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_65
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1719
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61005ccd8f8217f0800000000000000
+      internalID: -643293957579603601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_66
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 1720
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e782adf0071b0560800000000000000
+      internalID: 7280938515597264872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_67
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1719
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95e502f9dc49bde0800000000000000
+      internalID: -1316936917077072483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_68
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 1719
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940263bc7db67a50800000000000000
+      internalID: 6518605853948511377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_69
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1714
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08837af80db2420800000000000000
+      internalID: 2606406124768362671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_70
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1714
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a11fc935e55bf90800000000000000
+      internalID: -6938535937686037943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_71
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 1710
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2cb7addf31a30a0800000000000000
+      internalID: -6901181497978666334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1695
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026820552bf113310800000000000000
+      internalID: 1382921411370321440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1573
+        width: 88
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ad52325fb1df830800000000000000
+      internalID: 4106469174902381146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_74
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1476
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937a8b576dcdd69a0800000000000000
+      internalID: -6238087095182121159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_75
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1454
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263822ba740b4d930800000000000000
+      internalID: 4167149377084883810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aee3a102bfd29e0800000000000000
+      internalID: -1644382173622506981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_77
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1285
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47fd260519e8dde0800000000000000
+      internalID: -1308039415243868341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1257
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcbfda9c03f95df0800000000000000
+      internalID: -190854273723024199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_79
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1257
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615cc19f767464780800000000000000
+      internalID: -8699187118332918506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_80
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1212
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a7ee42e23c8e580800000000000000
+      internalID: -8797567269112743370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_81
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1161
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54d00f2a4f5464a0800000000000000
+      internalID: -6601046381597502374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cdc7e4664ef3dd0800000000000000
+      internalID: -2504031739740103644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1075
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acee5f917ebbd600800000000000000
+      internalID: 494197979341581475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_84
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1066
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eec989601715db0800000000000000
+      internalID: -4804935054283444682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_85
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 956
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7815f44e7356720800000000000000
+      internalID: 2838736593849780133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_86
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 882
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5467198619ec3e910800000000000000
+      internalID: 1865561794581460549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_87
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 841
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7821964d8ddf7c740800000000000000
+      internalID: 5172381804776723079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_88
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 856
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275c583ba40a74ba0800000000000000
+      internalID: -6104734527177505422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 842
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d4bc55d9161b210800000000000000
+      internalID: 1346965091937635587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_90
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 847
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e53aef3bf6416e50800000000000000
+      internalID: 6800794957229209057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_91
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 838
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302a89609ca58fc50800000000000000
+      internalID: 6699204265159205379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 819
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca61eba4ee2d7cd0800000000000000
+      internalID: -2558837453605475637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_93
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 810
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4359be151222ea540800000000000000
+      internalID: 5020988161068340532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 801
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28c636f7df522d30800000000000000
+      internalID: 4405188766675159087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_95
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 787
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d3037def1964f10800000000000000
+      internalID: 2253649187263495543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_96
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 783
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c155c7c4b48530070800000000000000
+      internalID: 8071392037607068956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_97
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 774
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd6327ba0edc7dc0800000000000000
+      internalID: -3639790261218611770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_98
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b3347497fe18e0800000000000000
+      internalID: -1720665790632183409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 746
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e76fcb3fae2c20800000000000000
+      internalID: 3183674658015142478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_100
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 737
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f4cfaafd3b182e0800000000000000
+      internalID: -2125219775914422501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_101
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 737
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa0cfcbabd16b320800000000000000
+      internalID: 2573276924960574198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_102
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 728
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa5a8c2a556e92f0800000000000000
+      internalID: -964221832241980758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_103
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 714
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e562f1ec9a44c70800000000000000
+      internalID: 8954468661870354015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d847e8e672bae0800000000000000
+      internalID: -1535033780295116874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_105
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 678
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d223c8bb2273b3ca0800000000000000
+      internalID: -6036170253245074899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 673
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bd225bc2c3389d0800000000000000
+      internalID: -2773306782814905522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_107
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 663
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df26accba47a88a0800000000000000
+      internalID: -6302096447329914926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_108
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 637
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5edcbb1006449a0800000000000000
+      internalID: -6249764822321338890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_109
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12bbbff800fa7860800000000000000
+      internalID: 7528593648544100891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_110
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 619
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13b5076694df16a0800000000000000
+      internalID: -6476223996696874209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_111
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 619
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48464a43793e37b70800000000000000
+      internalID: 8895703927549617284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 601
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d1bfab33cfe280800000000000000
+      internalID: -9011769668226918382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_113
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 614
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c773d0cbe5cd9a0800000000000000
+      internalID: -6206982024654783454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_114
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 608
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b976338ff959030800000000000000
+      internalID: 3500880173713562407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_115
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 609
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7756c6463cbba8db0800000000000000
+      internalID: -4788808805877258889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_116
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 601
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c70c5acb2e02c100800000000000000
+      internalID: 126679320761206728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_117
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 605
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d3edca140be1a0800000000000000
+      internalID: -6779320300906229003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_vida_118
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d9c9cce08025d60800000000000000
+      internalID: 7877367557879799050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boton_vida_0: 2701072272409483936
+      boton_vida_1: 4076676284311204016
+      boton_vida_10: 2250123078734987106
+      boton_vida_100: -2125219775914422501
+      boton_vida_101: 2573276924960574198
+      boton_vida_102: -964221832241980758
+      boton_vida_103: 8954468661870354015
+      boton_vida_104: -1535033780295116874
+      boton_vida_105: -6036170253245074899
+      boton_vida_106: -2773306782814905522
+      boton_vida_107: -6302096447329914926
+      boton_vida_108: -6249764822321338890
+      boton_vida_109: 7528593648544100891
+      boton_vida_11: -2423232003127235369
+      boton_vida_110: -6476223996696874209
+      boton_vida_111: 8895703927549617284
+      boton_vida_112: -9011769668226918382
+      boton_vida_113: -6206982024654783454
+      boton_vida_114: 3500880173713562407
+      boton_vida_115: -4788808805877258889
+      boton_vida_116: 126679320761206728
+      boton_vida_117: -6779320300906229003
+      boton_vida_118: 7877367557879799050
+      boton_vida_12: 3475583894308766290
+      boton_vida_13: -8887009051350655376
+      boton_vida_14: -1689241384648327836
+      boton_vida_15: -991260929861420976
+      boton_vida_16: 5509829570693855426
+      boton_vida_17: 2626452312557895090
+      boton_vida_18: -2244430366672477343
+      boton_vida_19: 8393880829194831734
+      boton_vida_2: -6588463686961536307
+      boton_vida_20: 6118053066084077385
+      boton_vida_21: 8511574535362941795
+      boton_vida_22: -2344849325658313205
+      boton_vida_23: -1747163336835054827
+      boton_vida_24: 8050974964595478561
+      boton_vida_25: 7458640840423404206
+      boton_vida_26: -6094037266820053981
+      boton_vida_27: -838539384820117657
+      boton_vida_28: -3556322529254186129
+      boton_vida_29: -235939958297137251
+      boton_vida_3: -7718830581836128491
+      boton_vida_30: -3584815479222756488
+      boton_vida_31: -5585680123707174683
+      boton_vida_32: -3212770047306762042
+      boton_vida_33: 650110349284645137
+      boton_vida_34: 5766522525679486850
+      boton_vida_35: -3448256191956406660
+      boton_vida_36: 6669946056234360536
+      boton_vida_37: 3050365456282727800
+      boton_vida_38: 2831541177698398018
+      boton_vida_39: -1614284181830246931
+      boton_vida_4: -9150432083334840676
+      boton_vida_40: 670891679232150047
+      boton_vida_41: -7360836947974899884
+      boton_vida_42: -6697241816417101118
+      boton_vida_43: -4296931037097124286
+      boton_vida_44: 5187498635408657944
+      boton_vida_45: -2307140890271847511
+      boton_vida_46: -6537696654291186324
+      boton_vida_47: 575614366550742667
+      boton_vida_48: -4697372281779628902
+      boton_vida_49: 2738223685923021586
+      boton_vida_5: -3507649647145408532
+      boton_vida_50: 8495408732587102942
+      boton_vida_51: -5892793110288544029
+      boton_vida_52: -3264940315110548660
+      boton_vida_53: 6114528898994410805
+      boton_vida_54: -5290373318641334057
+      boton_vida_55: 8468775954693123812
+      boton_vida_56: 5065071500211628352
+      boton_vida_57: 8483073494464652002
+      boton_vida_58: 6344498783167943134
+      boton_vida_59: 3861335491084039211
+      boton_vida_6: -9191286825732450914
+      boton_vida_60: -6621870891758633845
+      boton_vida_61: -4255249019669785809
+      boton_vida_62: 326584331060552721
+      boton_vida_63: 7814742501398752219
+      boton_vida_64: 6501350791972815860
+      boton_vida_65: -643293957579603601
+      boton_vida_66: 7280938515597264872
+      boton_vida_67: -1316936917077072483
+      boton_vida_68: 6518605853948511377
+      boton_vida_69: 2606406124768362671
+      boton_vida_7: -6757435776383596637
+      boton_vida_70: -6938535937686037943
+      boton_vida_71: -6901181497978666334
+      boton_vida_72: 1382921411370321440
+      boton_vida_73: 4106469174902381146
+      boton_vida_74: -6238087095182121159
+      boton_vida_75: 4167149377084883810
+      boton_vida_76: -1644382173622506981
+      boton_vida_77: -1308039415243868341
+      boton_vida_78: -190854273723024199
+      boton_vida_79: -8699187118332918506
+      boton_vida_8: -6437817386252954149
+      boton_vida_80: -8797567269112743370
+      boton_vida_81: -6601046381597502374
+      boton_vida_82: -2504031739740103644
+      boton_vida_83: 494197979341581475
+      boton_vida_84: -4804935054283444682
+      boton_vida_85: 2838736593849780133
+      boton_vida_86: 1865561794581460549
+      boton_vida_87: 5172381804776723079
+      boton_vida_88: -6104734527177505422
+      boton_vida_89: 1346965091937635587
+      boton_vida_9: 1770531907697209262
+      boton_vida_90: 6800794957229209057
+      boton_vida_91: 6699204265159205379
+      boton_vida_92: -2558837453605475637
+      boton_vida_93: 5020988161068340532
+      boton_vida_94: 4405188766675159087
+      boton_vida_95: 2253649187263495543
+      boton_vida_96: 8071392037607068956
+      boton_vida_97: -3639790261218611770
+      boton_vida_98: -1720665790632183409
+      boton_vida_99: 3183674658015142478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
