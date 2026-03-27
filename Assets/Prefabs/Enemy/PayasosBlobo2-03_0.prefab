@@ -113,7 +113,7 @@ MonoBehaviour:
   waitTime: 4
   poolTag: Enemy
   normalClown: {fileID: 8647738457669641490, guid: 47e661ce7df61794192f0194018bebde, type: 3}
-  DeadClown: {fileID: 0}
+  DeadClown: {fileID: -8337270946283654034, guid: e16e037cfd3bc1640a9ae455e2144fcd, type: 3}
 --- !u!61 &8658901387690969626
 BoxCollider2D:
   m_ObjectHideFlags: 0

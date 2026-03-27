@@ -21,8 +21,8 @@ public class GameManagerUX : MonoBehaviour
     public TMP_Text KillCountText;
 
     [Header("Glitch Settings")]
-    public int killsToActivateGlitch = 3; // a partir de 3 muertes
-    private int killCount;
+    private int kills = 0;
+
     
 
     public GlitchController glitchController;
@@ -47,16 +47,22 @@ public class GameManagerUX : MonoBehaviour
 
     public void RegisterKill()
     {
-        killCount ++;
-        KillCountText.text = "" + killCount;
-        if (killCount >= killsToActivateGlitch)
+        kills++;
+
+        if (kills == 3)
         {
-            // Iniciar corutina de glitches aleatorios
-            StartCoroutine(GlitchLoop());
+            glitchController.TriggerGlitch(GlitchType.Short);
         }
-
-
+        else if (kills == 6)
+        {
+            glitchController.TriggerGlitch(GlitchType.Long);
+        }
+        else if (kills == 10)
+        {
+            glitchController.TriggerGlitch(GlitchType.NormalReturn);
+        }
     }
+
 
     public bool TryShoot()
     {
@@ -82,18 +88,7 @@ public class GameManagerUX : MonoBehaviour
         ammoText.text= "" + totalBubbles;
     }
 
-    private IEnumerator GlitchLoop()
-    {
-        while (true) // mientras el juego esté activo
-        {
-            // esperar un tiempo aleatorio entre 10 y 20 segundos
-            float waitTime = Random.Range(1f, 2f);
-            yield return new WaitForSeconds(waitTime);
 
-            // activar glitch
-            glitchController.TriggerGlitch();
-        }
-    }
 
 
 }
